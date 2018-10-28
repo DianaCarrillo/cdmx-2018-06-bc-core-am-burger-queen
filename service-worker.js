@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/cdmx-2018-06-bc-core-am-burger-queen/precache-manifest.9f74b7720db6dcc37fa7ed93e9a6be3f.js"
+  "/cdmx-2018-06-bc-core-am-burger-queen/precache-manifest.b47c9a4d80119e19b22f95ebf2646c80.js"
 );
 
 workbox.clientsClaim();
