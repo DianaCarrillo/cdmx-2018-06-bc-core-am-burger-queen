@@ -1,0 +1,23 @@
+ {     "desayuno":{
+        "café americano":5,
+        "café con leche":7,
+        "Sandwich de jamón y queso":10,
+        "Jugo natural":7
+        },
+     "almuerzo": {
+        "hamburguesa de pollo sencilla":10,
+        "hamburguesa de pollo doble":15,
+        "hamburguesa de res sencilla":10,
+        "hamburguesa de res doble":15,
+        "hamburguesa vegetariana sencilla":10,
+        "hamburguesa vegetariana doble":15,
+            "papas":5,
+            "onion rings":5,
+            "queso":1, "huevo":1,
+            "agua 500ml":5,
+            "agua 750":8,
+            "refresco 500ml":7,
+            "reresco 750ml":10
+            }
+        }
+    
